@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\bin\Debug\net6.0\Hospital.Repositonries.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\bin\Debug\net6.0\Hospital.Repositonries.dll
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\bin\Debug\net6.0\Hospital.Repositonries.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\obj\Debug\net6.0\Hospital.Repositonries.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\obj\Debug\net6.0\Hospital.Repositonries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\obj\Debug\net6.0\Hospital.Repositonries.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\obj\Debug\net6.0\Hospital.Repositonries.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\obj\Debug\net6.0\Hospital.Repositonries.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\obj\Debug\net6.0\Hospital.Repositonries.dll
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\obj\Debug\net6.0\refint\Hospital.Repositonries.dll
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\obj\Debug\net6.0\Hospital.Repositonries.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\obj\Debug\net6.0\ref\Hospital.Repositonries.dll
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\bin\Debug\net6.0\Hospital.Repositonries.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\obj\Debug\net6.0\Hospital.Repositonries.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\bin\Debug\net6.0\Hospital.Models.dll
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\bin\Debug\net6.0\Hospital.Models.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.Repositonries\obj\Debug\net6.0\Hospital.Repositonries.csproj.CopyComplete

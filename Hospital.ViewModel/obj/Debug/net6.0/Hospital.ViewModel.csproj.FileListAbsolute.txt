@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\bin\Debug\net6.0\Hospital.ViewModel.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\bin\Debug\net6.0\Hospital.ViewModel.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\bin\Debug\net6.0\Hospital.ViewModel.dll
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\bin\Debug\net6.0\Hospital.ViewModel.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\obj\Debug\net6.0\Hospital.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\obj\Debug\net6.0\Hospital.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\obj\Debug\net6.0\Hospital.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\obj\Debug\net6.0\Hospital.ViewModel.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\obj\Debug\net6.0\Hospital.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\obj\Debug\net6.0\Hospital.ViewModel.dll
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\obj\Debug\net6.0\refint\Hospital.ViewModel.dll
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\obj\Debug\net6.0\Hospital.ViewModel.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\obj\Debug\net6.0\Hospital.ViewModel.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\obj\Debug\net6.0\ref\Hospital.ViewModel.dll
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\bin\Debug\net6.0\Hospital.Models.dll
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\bin\Debug\net6.0\Hospital.Models.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Hospital.Web\Hospital.ViewModel\obj\Debug\net6.0\Hospital.ViewModel.csproj.CopyComplete

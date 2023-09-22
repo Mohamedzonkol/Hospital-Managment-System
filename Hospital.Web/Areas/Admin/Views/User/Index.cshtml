@@ -1,0 +1,64 @@
+﻿@using Hospital.Utilites;
+@model PagedResult<Hospital.ViewModel.ApplecationUserViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+Name            </th>
+            <th>
+City            </th>
+            <th>
+Geder            </th>
+            <th>
+Is Doctor            </th>
+            <th>
+Specail List            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Data) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDoctor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.specailLIst)
+            </td>
+          
+        </tr>
+}
+    </tbody>
+</table>
+
+<cs-pager cs-paging-pagesize=(int)Model.PageSize
+          cs-paging-pagenumber=(int)Model.PageNumber
+          cs-paging-totalitems=(int)Model.TotalItem
+          cs-pagenumber-param="PageNumber"
+          asp-controller="User"
+          asp-action="Index"
+          cs-pager-li-current-class="page-item-active"
+          cs-pager-li-other-class="page-item"
+          cs-pager-li-non-active-class="page-item disabled"
+          cs-pager-link-current-class="page-link"
+          cs-pager-link-other-class="page-link">
+</cs-pager>
